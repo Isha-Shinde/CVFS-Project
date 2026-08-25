@@ -86,35 +86,6 @@ The CVFS simulates important file-system operations.
 | `clear`   | Clear the terminal               |
 | `exit`    | Exit CVFS                        |
 
-# How CVFS Works
-
-The overall flow of the project is:
-
-Start -> Initialize Super Block
-  ↓
-Create / Initialize Inode List
-  ↓
-Initialize UAREA
-  ↓
-Display CVFS Prompt
-  ↓
-Accept User Command
-  ↓
-Parse Command
-  ↓
-Identify Required Operation
-  ↓
-Call Corresponding Function
-  ↓
-Perform File Operation
-  ↓
-Display Result
-  ↓
-Wait for Next Command
-  ↓
-Exit
----
-
 # Documentation
 
 Detailed project documentation is available in:
