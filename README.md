@@ -55,6 +55,8 @@ The project uses a Command Line Interface (CLI) for interacting with the virtual
 - UFDT: Maps file descriptors to file table entries.
 - Buffer: Each file has a dedicated buffer for its contents.
 
+- https://github.com/Isha-Shinde/CVFS-Project/blob/main/file%20system.PNG
+
 # Data Structures Used
 
 - Boot Block : The `BootBlock` stores information related to booting the operating system.
