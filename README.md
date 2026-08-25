@@ -94,8 +94,8 @@ Computer Engineering Graduate
 Interested in Software Development, C Programming, Java, Operating Systems and System-Level Programming.
 
 # Documentation
-
-Detailed project documentation is available in:Customised Virtual File System.pdf
+[
+(https://github.com/Isha-Shinde/CVFS-Project/blob/main/Customised%20Virtual%20File%20System.pdf)](https://github.com/Isha-Shinde/CVFS-Project/blob/main/Customised%20Virtual%20File%20System.pdf)
 
 ----
 # License
