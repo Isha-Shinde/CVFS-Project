@@ -95,9 +95,7 @@ Interested in Software Development, C Programming, Java, Operating Systems and S
 
 # Documentation
 
-Detailed project documentation is available in:
-
-Customised Virtual File System.pdf
+Detailed project documentation is available in:Customised Virtual File System.pdf
 
 ----
 # License
