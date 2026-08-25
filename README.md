@@ -90,9 +90,7 @@ The CVFS simulates important file-system operations.
 
 The overall flow of the project is:
 
-Start
-  ↓
-Initialize Super Block
+Start -> Initialize Super Block
   ↓
 Create / Initialize Inode List
   ↓
