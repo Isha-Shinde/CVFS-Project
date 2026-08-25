@@ -86,6 +86,13 @@ The CVFS simulates important file-system operations.
 | `clear`   | Clear the terminal               |
 | `exit`    | Exit CVFS                        |
 
+---
+# Author
+
+Isha Suresh Shinde
+Computer Engineering Graduate
+Interested in Software Development, C Programming, Java, Operating Systems and System-Level Programming.
+
 # Documentation
 
 Detailed project documentation is available in:
